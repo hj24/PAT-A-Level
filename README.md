@@ -43,6 +43,7 @@
 ### 连通分量的统计
 
 1. [甲级 1013](https://github.com/hj24/PAT-A-Level/blob/master/PAT_A_1013.cpp)
+2. [甲级 1034](https://github.com/hj24/PAT-A-Level/blob/master/PAT_A_1034.cpp)
 
 ## 树
 
