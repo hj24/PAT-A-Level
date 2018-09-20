@@ -46,6 +46,10 @@
 2. [甲级 1034](https://github.com/hj24/PAT-A-Level/blob/master/PAT_A_1034.cpp)
 3. [甲级 1021](https://github.com/hj24/PAT-A-Level/blob/master/PAT_A_1021.cpp)
 
+### 遍历
+
+1. [甲级 1076](https://github.com/hj24/PAT-A-Level/blob/master/PAT_A_1076.cpp)
+
 ## 树
 
 ### 遍历
