@@ -24,6 +24,7 @@
 ## 动态规划
 
 1. [甲级 1007](https://github.com/hj24/PAT-A-Level/blob/master/PAT_A_1007.cpp)
+2. [甲级 1068](https://github.com/hj24/PAT-A-Level/blob/master/PAT_A_1068.cpp)
 
 ## 排序
 
