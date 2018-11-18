@@ -30,7 +30,7 @@
 
 ### 树状数组
 
-1. [甲级 1057]()
+1. [甲级 1057](https://github.com/hj24/PAT-A-Level/blob/master/PAT_A_1057.cpp)
 
 ## 排序
 
