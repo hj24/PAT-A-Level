@@ -26,6 +26,12 @@
 1. [甲级 1007](https://github.com/hj24/PAT-A-Level/blob/master/PAT_A_1007.cpp)
 2. [甲级 1068](https://github.com/hj24/PAT-A-Level/blob/master/PAT_A_1068.cpp)
 
+## 数据结构
+
+### 树状数组
+
+1. [甲级 1057]()
+
 ## 排序
 
 1. [甲级 1012](https://github.com/hj24/PAT-A-Level/blob/master/PAT_A_1012.cpp)
@@ -61,3 +67,4 @@
 ## 数学问题
 
 1. [甲级 1008](https://github.com/hj24/PAT-A-Level/blob/master/PAT_A_1008.cpp)
+
